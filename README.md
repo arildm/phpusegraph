@@ -7,3 +7,8 @@ Usage
 -----
 
     phpusegraph.sh myproject/src/ | dot -Tpng > /tmp/phpusegraph.png && open /tmp/phpusegraph.png
+
+Todo
+----
+
+* Include mentions of classes in same namespace.
